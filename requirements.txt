@@ -1,0 +1,6 @@
+opencv-python # For preprocessing the data
+matplotlib # Visualization
+imageio
+gdown # For downloading the dataset from drive
+tensorflow # For building deep neural network
+numpy
